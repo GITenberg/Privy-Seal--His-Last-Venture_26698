@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1016
     wikipedia: http://en.wikipedia.org/wiki/Ford_Madox_Ford
 description: The rising sun -- The distant cloud -- The sunburst.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26698#Privy-Seal--His-Last-Venture
 gutenberg_issued: '2008-09-24'
 gutenberg_type: Text
 identifiers:
